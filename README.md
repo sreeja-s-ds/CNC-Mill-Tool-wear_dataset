@@ -1,6 +1,8 @@
 # CNC-Mill-Tool-wear_dataset_My Understanding
 
-🛠️ CNC Mill Tool Wear Prediction
+🛠️ CNC Mill Tool Wear Prediction  
+
+Ref: https://www.kaggle.com/datasets/shasun/tool-wear-detection-in-cnc-mill/data
 
 This repository presents a predictive maintenance project based on the CNC Mill Tool Wear dataset.
 
